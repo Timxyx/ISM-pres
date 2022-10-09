@@ -44,14 +44,9 @@
 
 - Historisch geprägtes System
 
-
 ---
 
-filler
-
----
-
-<img src="../assets/frequencies.png" height="800px" styles="position: absolute; top: -50px;" />
+<img src="../frequenzies.png" height="700px" styles="position: absolute; top: -50px;" />
 
 ---
 ### Was ist das?
