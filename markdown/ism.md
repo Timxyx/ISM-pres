@@ -4,7 +4,7 @@
 ---
 
 ## Überblick
-- Was ist das ISM-Band?
+- Was sind die ISM-Bänder?
   
 - Warum wird es benötigt?
 
@@ -14,20 +14,40 @@
 
 ---
 
-### Eigenheiten
+## Geschichte
 
-- Lizensfrei nutzbar
+- Ein System zur Verteilung frei nutzbarer Frequenzbereiche.
 
-- dürfen 10mW Sendeleistung nicht überschreiten
+- 1985 von der Federal Communications Commission eingeführt.
 
-- in den am meisten genutzen kommt es oft zu Störungen.
+- Wurde für unvermeidbare Emmissionen in Industriellen Andwendung reserviert.
 
+- Heutzutage von unzähliger Weise verwendet (Garagen Öffner, Mikrowellen, WLAN, RFID, ...)  
+
+<a style="font-size: 15px; position: absolute; bottom: 0px;" src="http://www.signalpro.biz/ismband.pdf">Quelle: Signalpro.biz</a>
 
 ---
 
  ## Bereiche
 <img src="../ism-bands.jpg" height="500px" styles="position: absolute; top: -50px;" />
 <a style="font-size: 15px; position: absolute; bottom: 0px;" src="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
+
+---
+
+### Eigenheiten
+
+- Lizensfrei nutzbar
+
+- dürfen 10mW Sendeleistung nicht überschreiten
+
+- Anfällig für Störungen
+
+- Historisch geprägtes System
+
+
+---
+
+filler
 
 ---
 
