@@ -32,6 +32,7 @@
 
  ## Bereiche
  ![](/ism-bands.jpg)
+ ---
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
 
 ---
