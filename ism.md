@@ -31,7 +31,7 @@
 ---
 
  ## Bereiche
- ![](/ism-bands.jpg)
+ ![](./ism-bands.jpg)
  ---
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
 
@@ -48,7 +48,7 @@
 - Historisch geprägtes System
 
 ---
-![](/assets/frequencies.png)
+![](./assets/frequencies.png)
 
 ---
 
@@ -62,7 +62,6 @@ Verwendet in: <br/>
 ### Das 2,4GHz Band
 - besteht aus 14 Kanälen
 - ein Kanal ist 22 Mhz "breit"
-![](../assets/ism_24.jpg)
-<img src="./ism-bands.jpg" />
+![](./assets/ism_24.jpg)
 
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">Quelle: Russel Raham youtube.com </a>
