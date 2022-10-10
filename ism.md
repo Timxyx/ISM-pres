@@ -58,8 +58,10 @@ Verwendet in: <br/>
  WLAN, Zigbee, Bluetooth, Mikrowellen, Babytelefone, Garagenöffner, usw...
 
 ---
+### Das 2,4GHz Band
 - besteht aus 14 Kanälen
 - ein Kanal ist 22 Mhz "breit"
 ![](../assets/ism_24.jpg)
+<img src="./ism-bands.jpg" />
 
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">Quelle: Russel Raham youtube.com </a>
