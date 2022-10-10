@@ -48,7 +48,7 @@
 - Historisch geprägtes System
 
 ---
-![](./assets/frequencies.png)
+![](./frequenzies.png)
 
 ---
 
@@ -65,3 +65,16 @@ Verwendet in: <br/>
 ![](./assets/ism_24.jpg)
 
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">Quelle: Russel Raham youtube.com </a>
+
+---
+### Was bringt die Zukunft?
+
+- FCC gibt das 6GHz Band frei
+- Wifi bekommt dadurch einen Frequenzbereich für sich selbst
+- Wifi 6e verwendet Frequenzen zwischen 5,925 und 7,125 GHz
+
+#### Links zur weiteren Informationsquellen
+
+<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://blogs.arubanetworks.com/corporate/history-is-being-made-whats-happening-with-6-ghz/">Blogartikel zu 6GHz ISM Band</a>
+<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">2,4GHz Band genauer</a>
+<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=f2nZdkTxCEE">ISM Bands zusammengefasst</a>
