@@ -6,11 +6,13 @@
 ## Überblick
 - Was sind die ISM-Bänder?
   
-- Warum wird es benötigt?
+- Warum werden sie benötigt?
 
 - Welche Bereiche gibt es?
 
-- Länderspezifisches
+- 2,4 GHz Band genauer
+
+- Zukunft 
 
 ---
 
@@ -49,10 +51,15 @@
 
 ---
 
-### Was ist das?
-Ein System zur Verteilung frei nutzbarer Frequenzbereiche.
-<div style="position: absolute; top: -20vh; left: -120px;">ISM-Band</div>
+## Das 2,4GHz Band
+##### Das am besten bekannte ISM-Band
+
+Verwendet in: <br/>
+ WLAN, Zigbee, Bluetooth, Mikrowellen, Babytelefone, Garagenöffner, usw...
 
 ---
-### Geschichte dahinter
+- besteht aus 14 Kanälen
+- ein Kanal ist 22 Mhz "breit"
+![](../assets/ism_24.jpg)
 
+<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">Quelle: Russel Raham youtube.com </a>
