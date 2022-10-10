@@ -73,8 +73,10 @@ Verwendet in: <br/>
 - Wifi bekommt dadurch einen Frequenzbereich für sich selbst
 - Wifi 6e verwendet Frequenzen zwischen 5,925 und 7,125 GHz
 
-#### Links zur weiteren Informationsquellen
-
-<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://blogs.arubanetworks.com/corporate/history-is-being-made-whats-happening-with-6-ghz/">Blogartikel zu 6GHz ISM Band</a>
-<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">2,4GHz Band genauer</a>
-<a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://www.youtube.com/watch?v=f2nZdkTxCEE">ISM Bands zusammengefasst</a>
+---
+### **Links zu weiteren Informationsquellen**
+<div style="display: flex; flex-direction: column; text-align: start;">
+<a style="font-size: 50px; margin-bottom: 20px;" href="https://blogs.arubanetworks.com/corporate/history-is-being-made-whats-happening-with-6-ghz/">Blogartikel zu 6GHz ISM Band...</a> <br/>
+<a style="font-size: 50px; margin-bottom: 20px;" href="https://www.youtube.com/watch?v=0THHRsYX99A">2,4GHz Band genauer...</a>
+<a style="font-size: 50px; margin-bottom: 20px;" href="https://www.youtube.com/watch?v=f2nZdkTxCEE">ISM Bands zusammengefasst...</a>
+</div>
