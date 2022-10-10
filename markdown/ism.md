@@ -29,7 +29,7 @@
 ---
 
  ## Bereiche
-<img data-src="../ism-bands.jpg" height="500px" styles="position: absolute; top: -50px;" />
+ ![](../ism-bands.jpg)
 <a style="font-size: 15px; position: absolute; bottom: 0px;" href="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
 
 ---
@@ -45,10 +45,10 @@
 - Historisch geprägtes System
 
 ---
-
-<img data-src="../frequenzies.png" height="700px" styles="position: absolute; top: -50px;" />
+![](../assets/frequencies.png)
 
 ---
+
 ### Was ist das?
 Ein System zur Verteilung frei nutzbarer Frequenzbereiche.
 <div style="position: absolute; top: -20vh; left: -120px;">ISM-Band</div>
