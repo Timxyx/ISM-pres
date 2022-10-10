@@ -24,13 +24,13 @@
 
 - Heutzutage von unzähliger Weise verwendet (Garagen Öffner, Mikrowellen, WLAN, RFID, ...)  
 
-<a style="font-size: 15px; position: absolute; bottom: 0px;" src="http://www.signalpro.biz/ismband.pdf">Quelle: Signalpro.biz</a>
+<a style="font-size: 15px; position: absolute; bottom: 0px;" data-src="http://www.signalpro.biz/ismband.pdf">Quelle: Signalpro.biz</a>
 
 ---
 
  ## Bereiche
-<img src="../ism-bands.jpg" height="500px" styles="position: absolute; top: -50px;" />
-<a style="font-size: 15px; position: absolute; bottom: 0px;" src="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
+<img data-src="../ism-bands.jpg" height="500px" styles="position: absolute; top: -50px;" />
+<a style="font-size: 15px; position: absolute; bottom: 0px;" data-src="https://slideplayer.com/slide/6673407/">Quelle: Kerry Lyons SlidePLayer.com </a>
 
 ---
 
@@ -46,7 +46,7 @@
 
 ---
 
-<img src="../frequenzies.png" height="700px" styles="position: absolute; top: -50px;" />
+<img data-src="../frequenzies.png" height="700px" styles="position: absolute; top: -50px;" />
 
 ---
 ### Was ist das?
