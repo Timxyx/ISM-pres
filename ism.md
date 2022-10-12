@@ -41,7 +41,7 @@
 
 - Lizensfrei nutzbar
 
-- dürfen 10mW Sendeleistung nicht überschreiten
+- dürfen 100mW Sendeleistung nicht überschreiten
 
 - Anfällig für Störungen
 
